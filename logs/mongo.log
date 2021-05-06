@@ -1,0 +1,122 @@
+# Logfile created on 2021-04-30 15:49:29 -0300 by logger.rb/v1.4.2
+D, [2021-04-30T15:49:33.526363 #15064] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:49:33.530935 #15064] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:49:33.538922 #15064] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0077596s
+D, [2021-04-30T15:49:33.539316 #15064] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Fazer Compras do supermercado", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:49:33.541422 #15064] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0019212s
+D, [2021-04-30T15:50:11.496644 #16160] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:50:11.501760 #16160] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:50:11.508898 #16160] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0069168s
+D, [2021-04-30T15:50:11.509353 #16160] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Fazer Compras do supermercado", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:50:11.511615 #16160] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0021095s
+D, [2021-04-30T15:52:10.010784 #15004] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:52:10.016312 #15004] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:52:10.019620 #15004] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.003127s
+D, [2021-04-30T15:52:10.020048 #15004] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:52:10.022797 #15004] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0020629s
+D, [2021-04-30T15:53:20.914302 #12608] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:53:20.920887 #12608] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:53:20.924444 #12608] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0033794000000000003s
+D, [2021-04-30T15:53:20.924897 #12608] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:53:20.927107 #12608] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.001887s
+D, [2021-04-30T15:55:27.972917 #16508] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:55:27.976999 #16508] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:55:27.979577 #16508] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0024232s
+D, [2021-04-30T15:55:27.979952 #16508] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:55:27.981660 #16508] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0015817s
+D, [2021-04-30T15:57:33.649821 #12988] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:57:33.656639 #12988] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:57:33.659986 #12988] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0030498s
+D, [2021-04-30T15:57:33.660578 #12988] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:57:33.666521 #12988] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0056768s
+D, [2021-04-30T15:58:54.069534 #10248] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T15:58:54.075992 #10248] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T15:58:54.080053 #10248] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0032987000000000003s
+D, [2021-04-30T15:58:54.080470 #10248] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T15:58:54.082004 #10248] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0013979s
+D, [2021-04-30T16:03:01.467042 #10312] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:03:01.475592 #10312] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:03:01.478798 #10312] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0030482s
+D, [2021-04-30T16:03:01.479218 #10312] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:03:01.481005 #10312] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0016831s
+D, [2021-04-30T16:03:23.487803 #12196] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:03:23.494602 #12196] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:03:23.498687 #12196] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0038043s
+D, [2021-04-30T16:03:23.499171 #12196] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Fazer Compras do supermercado", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:03:23.501074 #12196] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0017981999999999998s
+D, [2021-04-30T16:03:48.959382 #16804] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:03:48.965238 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:03:48.968783 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0034146s
+D, [2021-04-30T16:03:48.969204 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:03:48.970931 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0015544s
+D, [2021-04-30T16:03:50.625467 #16804] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:03:50.630534 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:03:50.633368 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0026904999999999997s
+D, [2021-04-30T16:03:50.633746 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:03:50.635390 #16804] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0014808s
+D, [2021-04-30T16:05:07.509410 #15836] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:05:07.514293 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:05:07.517200 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0027745s
+D, [2021-04-30T16:05:07.517635 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:05:07.519343 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0015563s
+D, [2021-04-30T16:05:09.151527 #15836] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:05:09.155716 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:05:09.158527 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0026514000000000004s
+D, [2021-04-30T16:05:09.158918 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:05:09.160455 #15836] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0013882s
+D, [2021-04-30T16:23:08.786894 #16492] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:23:08.796220 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:23:08.799041 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0025845s
+D, [2021-04-30T16:23:08.799424 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Fazer Compras do supermercado", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:23:08.801305 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0017416s
+D, [2021-04-30T16:23:10.451468 #16492] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:23:10.455638 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:23:10.463075 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0072727s
+D, [2021-04-30T16:23:10.463458 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:23:10.465287 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0016790000000000002s
+D, [2021-04-30T16:23:12.102350 #16492] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:23:12.106687 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:23:12.111727 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0048557s
+D, [2021-04-30T16:23:12.112112 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:23:12.113736 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0015029s
+D, [2021-04-30T16:23:13.702348 #16492] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:23:13.706893 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:23:13.710023 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0029848s
+D, [2021-04-30T16:23:13.710449 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:23:13.715284 #16492] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0046409s
+D, [2021-04-30T16:35:54.008072 #8676] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:35:54.012977 #8676] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:35:54.016390 #8676] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0031323999999999996s
+D, [2021-04-30T16:35:54.016954 #8676] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:35:54.023308 #8676] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0061504s
+D, [2021-04-30T16:37:36.343037 #10360] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:37:36.347781 #10360] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:37:36.351096 #10360] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0031401999999999997s
+D, [2021-04-30T16:37:36.351622 #10360] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:37:36.354553 #10360] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0027524s
+D, [2021-04-30T16:52:27.142199 #16260] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:52:27.162087 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:52:27.169201 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0068014s
+D, [2021-04-30T16:52:27.169805 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler um livro de logica de programação", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:52:27.172996 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0029936999999999997s
+D, [2021-04-30T16:52:28.539510 #16260] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:52:28.548500 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:52:28.551896 #16260] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0032188s
+D, [2021-04-30T16:52:52.811093 #14680] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:52:52.818634 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:52:52.821957 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0031249999999999997s
+D, [2021-04-30T16:52:52.822370 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Fazer Compras do supermercado", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:52:52.824262 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0017215s
+D, [2021-04-30T16:52:53.699690 #14680] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:52:53.710439 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:52:53.714475 #14680] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0038675s
+D, [2021-04-30T16:53:20.262118 #8120] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:53:20.283153 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:53:20.288147 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0047203s
+D, [2021-04-30T16:53:20.288704 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"Ler", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:53:20.290646 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.0017993s
+D, [2021-04-30T16:53:22.193369 #8120] DEBUG -- : MONGODB | Adding 127.0.0.1:27017 to the cluster.
+D, [2021-04-30T16:53:22.211141 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | STARTED | {"find"=>"users", "filter"=>{"profile.email"=>"guilhermel_ima@hotmail.com"}}
+D, [2021-04-30T16:53:22.218036 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.find | SUCCEEDED | 0.0063270999999999996s
+D, [2021-04-30T16:53:22.218449 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | STARTED | {"delete"=>"tasks", "deletes"=>[{"q"=>{"title"=>"", "createdBy"=>"9hY3GiPoFKZeqRknz"}, "limit"=>0}], "ordered"=>true}
+D, [2021-04-30T16:53:22.220545 #8120] DEBUG -- : MONGODB | 127.0.0.1:27017 | markdb.delete | SUCCEEDED | 0.001932s
